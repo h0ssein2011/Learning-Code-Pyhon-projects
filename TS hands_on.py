@@ -18,4 +18,4 @@ print(data.head())
 print ('\n Data Types:')
 print (data.dtypes)
 
-print('test2')
+print('test')
